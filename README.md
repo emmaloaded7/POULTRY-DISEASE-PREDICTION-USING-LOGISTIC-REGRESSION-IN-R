@@ -136,7 +136,7 @@ Evaluate the full model containing all available predictors.
 
 ====================================================================
 
-MODEL INTERPRETATION
+## MODEL INTERPRETATION
 
 Logistic regression coefficients were transformed into Odds Ratios using:
 
@@ -228,7 +228,7 @@ Classification accuracy was calculated.
 
 Accuracy = 87.5%
 
-INTERPRETATION
+## INTERPRETATION
 
 The final model correctly classified approximately 88% of birds in the testing dataset,
 indicating excellent predictive performance.
